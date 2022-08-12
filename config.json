@@ -1,0 +1,6 @@
+{
+    "weather": {
+        "api_key": "api_key_goes_here",
+        "report_unit": "imperial"
+    }
+}
